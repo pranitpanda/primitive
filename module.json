@@ -1,0 +1,11 @@
+{
+    "id" : "primitive",
+    "version" : "0.1.0",
+    "displayName" : "Primitive Faction",
+    "description" : "Ships and other content to enable the primitive faction in game. These ships use simple technology to provide a retro vibe.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}

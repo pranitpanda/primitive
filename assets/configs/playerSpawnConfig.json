@@ -1,0 +1,7 @@
+{
+  "Primitive Medium": {
+    "hull": "primitive:primitiveMedium",
+    "items": "core:mediumArmor-1 core:bigShield-1",
+    "money": 600
+  }
+}
